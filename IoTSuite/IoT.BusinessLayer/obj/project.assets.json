@@ -283,23 +283,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Johnny\\.nuget\\packages\\": {},
+    "C:\\Users\\freedom8358\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.BusinessLayer\\IoT.BusinessLayer.csproj",
+      "projectUniqueName": "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.BusinessLayer\\IoT.BusinessLayer.csproj",
       "projectName": "IoT.BusinessLayer",
-      "projectPath": "E:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.BusinessLayer\\IoT.BusinessLayer.csproj",
-      "packagesPath": "C:\\Users\\Johnny\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.BusinessLayer\\obj\\",
+      "projectPath": "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.BusinessLayer\\IoT.BusinessLayer.csproj",
+      "packagesPath": "C:\\Users\\freedom8358\\.nuget\\packages\\",
+      "outputPath": "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Johnny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\freedom8358\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -310,11 +310,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.DataLayer\\IoT.DataLayer.csproj": {
-              "projectPath": "E:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.DataLayer\\IoT.DataLayer.csproj"
+            "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.DataLayer\\IoT.DataLayer.csproj": {
+              "projectPath": "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.DataLayer\\IoT.DataLayer.csproj"
             },
-            "e:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.Domain\\IoT.Domain.csproj": {
-              "projectPath": "e:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.Domain\\IoT.Domain.csproj"
+            "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.Domain\\IoT.Domain.csproj": {
+              "projectPath": "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.Domain\\IoT.Domain.csproj"
             }
           }
         }

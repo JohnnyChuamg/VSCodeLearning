@@ -11500,23 +11500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Johnny\\.nuget\\packages\\": {},
+    "C:\\Users\\freedom8358\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.MvcSite\\IoT.MvcSite.csproj",
+      "projectUniqueName": "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.MvcSite\\IoT.MvcSite.csproj",
       "projectName": "IoT.MvcSite",
-      "projectPath": "E:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.MvcSite\\IoT.MvcSite.csproj",
-      "packagesPath": "C:\\Users\\Johnny\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\VSCodeLearning\\IoTSuite\\IoT.MvcSite\\obj\\",
+      "projectPath": "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.MvcSite\\IoT.MvcSite.csproj",
+      "packagesPath": "C:\\Users\\freedom8358\\.nuget\\packages\\",
+      "outputPath": "d:\\Learning\\00. GitHub\\VSCodeLearning\\IoTSuite\\IoT.MvcSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Johnny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\freedom8358\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
