@@ -18,10 +18,7 @@ namespace IoT.DataLayer.Managers
             if (string.IsNullOrWhiteSpace(applicationId)) throw new ArgumentNullException("Firebase cloid message applicationId can't be empty or null");
             return new FirebaseCloudMessageManager(FirebaseCloudMessageConnectionString.Create(senderId, applicationId));
         }
-        public async Task CloudMessaging(string to, string title, string content)
-        {
 
-        }
         internal async Task<string> CloudMessaging(string jsonData)
         {
             string result = string.Empty;
